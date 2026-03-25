@@ -1,0 +1,20 @@
+# Ignore datasets
+Dataset/
+
+# Ignore models
+Models/
+
+# Ignore ML files
+*.pkl
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
